@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">VB Stajyer</string>
+    <string name="pageBackGround">Ana Back Plan</string>
+    <string name="allPageLogo">All Pages Logo</string>
+    <string name="emailInput">E-mail</string>
+    <string name="passwordInput">Şifre</string>
+    <string name="registerButton">Kayıt Ol</string>
+    <string name="loginButton">Giriş Yap</string>
+    <string name="chatButton">Sohbet</string>
+    <string name="commandButton">Yorum Yap</string>
+    <string name="refreshButton">Yenile</string>
+    <string name="addcomment">Başlık</string>
+    <string name="addcommenttext">Yorumunu yaz...</string>
+    <string name="logoutButton">Çıkış Yap</string>
+    <string name="addcommentbutton">Gönder</string>
+    <string name="loginName">Ad</string>
+    <string name="loginSurname">Soyad</string>
+    <string name="eMail">E-mail</string>
+    <string name="password">Şifre</string>
+    <string name="rePassword">Şifre Tekrar</string>
+    <string name="createaccount">Oluştur</string>
+    <string name="cancel">İptal</string>
+    <string name="resetPassword">Şifre Sıfırla</string>
+    <string name="geri">Geri</string>
+    <string name="date">Doğum Tarihi (GG/AA/YYYY)</string>
+    <string name="country">Yaşadığınız İl</string>
+    <string name="phoneNumber">Telefon Numarası (05XXXXXXXXX)</string>
+    <string name="linkedIn">Linkedin Kullanıcı Adı</string>
+    <string name="userList">Kullanıcılar</string>
+
+
+
+
+</resources>
